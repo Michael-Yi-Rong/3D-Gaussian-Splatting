@@ -131,11 +131,11 @@ python train.py -s <path to COLMAP or NeRF Synthetic dataset>
 ```
 
 
-# MY TRAINED MDOELS   
+## MY TRAINED MDOELS   
 - https://pan.baidu.com/s/1sbNIjliCSaZpxcF2UFr2zA?pwd=8848
 
 
-
+## Details
 <details>
 <summary><span style="font-weight: bold;">Command Line Arguments for train.py</span></summary>
 
